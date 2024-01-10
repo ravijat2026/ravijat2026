@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <p>🌐 Craft intuitive and dynamic user interfaces using HTML, CSS, and JavaScript.
 
-⚛️ Dive deep into React and Vue.js to develop cutting-edge web applications.
+⚛️ Dive deep into React.js to develop cutting-edge web applications.
 
 🛠️ Expand my expertise to backend development for robust, end-to-end solutions.</p>
 📫 Reach me at **ravijat2050@gmail.com**
