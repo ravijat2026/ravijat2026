@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Next js and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sable-three-21.vercel.app/](https://portfolio-sable-three-21.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ravijat-portfolio.vercel.app/](https://ravijat-portfolio.vercel.app/)
 
 - 📫 How to reach me **ravijat2026@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12ng2pFGMAIPDgc24Mp74fXTf6nZU3PsQ/view?usp=sharing](https://drive.google.com/file/d/12ng2pFGMAIPDgc24Mp74fXTf6nZU3PsQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YVH1RrJeLAINV3DeKHcKjTD1c_lrNzrl/view?usp=sharing](https://drive.google.com/file/d/1YVH1RrJeLAINV3DeKHcKjTD1c_lrNzrl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
