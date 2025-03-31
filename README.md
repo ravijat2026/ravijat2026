@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ravi__jat_" target="blank"><img src="https://img.shields.io/twitter/follow/ravi__jat_?logo=twitter&style=for-the-badge" alt="ravi__jat_" /></a> </p>
 
-- 🔭 I’m currently working on [Full stack E-commerce app](https://e-com-murex-two.vercel.app/)
+- 🔭  I am working at Vtex.AI as a full-stack developer.
 
-- 🌱 I’m currently learning **Next js and TypeScript**
+- 🌱 My latest project is an **AI job platform** using Next.js, Gemini, TypeScript, and PostgreSQL.
 
 - 👨‍💻 All of my projects are available at [https://ravijat-portfolio.vercel.app/](https://ravijat-portfolio.vercel.app/)
 
